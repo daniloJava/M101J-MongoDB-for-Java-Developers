@@ -26,58 +26,51 @@
   <li></li>
 </ul>  
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Week3: Schema Design  </h4><br>
+<p><strong>Liberado</strong> - 16/08/2016</p> 
+<p><strong>Data limite</strong> - 23/08/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Week4: Performance  </h4><br>
+<p><strong>Liberado</strong> - 23/08/2016</p> 
+<p><strong>Data limite</strong> - 30/08/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Week5: Aggregation Framework  </h4><br>
+<p><strong>Liberado</strong> - 30/08/2016</p> 
+<p><strong>Data limite</strong> - 06/09/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Week6: Application Engineering  </h4><br>
+<p><strong>Liberado</strong> - 06/09/2016</p> 
+<p><strong>Data limite</strong> - 13/09/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Week7: Final Exam  </h4><br>
+<p><strong>Liberado</strong> - 13/09/2016</p> 
+<p><strong>Data limite</strong> - N/A</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
+<h4>Final Exam  </h4><br>
+<p><strong>Liberado</strong> - 13/09/2016</p> 
+<p><strong>Data limite</strong> - 20/09/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
   <li></li>
 </ul> 
 <br>
-<h4>Week2: CRUD  </h4><br>
-<p><strong>Liberado</strong> - 09/08/2016</p> 
-<p><strong>Data limite</strong> - 16/08/2016</p> 
-<p><strong>Conclusao</strong> - </p>
-<ul>
-  <li></li>
-</ul> 
