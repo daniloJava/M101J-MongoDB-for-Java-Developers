@@ -21,9 +21,16 @@
 <h4>Week2: CRUD  </h4><br>
 <p><strong>Liberado</strong> - 09/08/2016</p> 
 <p><strong>Data limite</strong> - 16/08/2016</p> 
-<p><strong>Conclusao</strong> - </p>
+<p><strong>Conclusao</strong> - 16/08/2016</p>
 <ul>
-  <li></li>
+  <li>Operadores MongoDB Leitura</li>
+  <li>Operadores MongoDB Comparação</li>
+  <li>Operadores MongoDB Lógico</li>
+  <li>Operadores MongoDB para Array</li>
+  <li>Operadores MongoDB Elementos e Evolução dos dados</li>
+  <li>Operadores MongoDB Regex com Expressão regular </li>
+  <li>CRUD com JAVA</li>
+  <li>Interação com Spark e Freemarker</li>
 </ul>  
 <br>
 <h4>Week3: Schema Design  </h4><br>
