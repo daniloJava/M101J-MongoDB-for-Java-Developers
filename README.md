@@ -38,7 +38,16 @@
 <p><strong>Data limite</strong> - 23/08/2016</p> 
 <p><strong>Conclusao</strong> - </p>
 <ul>
-  <li></li>
+  <li>MongoDB Schema Design</li>
+  <li>Normalização no MongoDB</li>
+  <li>MongoDB sem Contantes... 0.0</li>
+  <li>MongoDB sem Transações... 0.0</li>
+  <li>Relacionamentos 1..1</li>
+  <li>Relacionamentos 1..N</li>
+  <li>Relacionamentos N..N</li>
+  <li>Multikeys indexes</li>
+  <li>ODM (Object-Document Mapper), Mesma coisa que o (Object Relational Mapping)</li>
+  <li>Morphia que é Parecido com o Hibernate.</li>
 </ul> 
 <br>
 <h4>Week4: Performance  </h4><br>
