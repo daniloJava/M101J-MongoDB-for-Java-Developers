@@ -36,7 +36,7 @@
 <h4>Week3: Schema Design  </h4><br>
 <p><strong>Liberado</strong> - 16/08/2016</p> 
 <p><strong>Data limite</strong> - 23/08/2016</p> 
-<p><strong>Conclusao</strong> - </p>
+<p><strong>Conclusao</strong> - 20/08/2016</p>
 <ul>
   <li>MongoDB Schema Design</li>
   <li>Normalização no MongoDB</li>
