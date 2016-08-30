@@ -48,7 +48,7 @@
   <li>Multikeys indexes</li>
   <li>ODM (Object-Document Mapper), Mesma coisa que o (Object Relational Mapping)</li>
   <li>Morphia que é Parecido com o Hibernate.</li>
-  <p>* Não teve muito Codigo Java, Foi apenas nas homework.</p>
+  <p><b>*</b> Não teve muito codigo Java, somente nas HomeWorks.</p>
 </ul> 
 <br>
 <h4>Week4: Performance  </h4><br>
@@ -56,9 +56,17 @@
 <p><strong>Data limite</strong> - 30/08/2016</p> 
 <p><strong>Conclusao</strong> - 29/08/2016</p>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li><li></li>
+  <li>Muitos Conceitos de Estrutura e Boas praticas.</li>
+  <li>WiredTiger, um frame que o Mongo comprou para agilizar seu processamento</li>
+  <li>Criação e Manipulação de Indexes</li>
+  <li>Uso de Multikey em index.</li>
+  <li>Verbodity</li>
+  <li>Covered Queries</li>
+  <li>Talvez o mais interessante. Geospatial Spherical</li>
+  <li>Introdução de concetos de Geolocalização, operadores e Queres, GeoJSON</li>
+  <li>Mongotop</li>
+  <li>Mongostat</li>
+</ul> 
 </ul> 
 <br>
 <h4>Week5: Aggregation Framework  </h4><br>
