@@ -48,14 +48,17 @@
   <li>Multikeys indexes</li>
   <li>ODM (Object-Document Mapper), Mesma coisa que o (Object Relational Mapping)</li>
   <li>Morphia que é Parecido com o Hibernate.</li>
+  <p>* Não teve muito Codigo Java, Foi apenas nas homework.</p>
 </ul> 
 <br>
 <h4>Week4: Performance  </h4><br>
 <p><strong>Liberado</strong> - 23/08/2016</p> 
 <p><strong>Data limite</strong> - 30/08/2016</p> 
-<p><strong>Conclusao</strong> - </p>
+<p><strong>Conclusao</strong> - 29/08/2016</p>
 <ul>
   <li></li>
+  <li></li>
+  <li></li><li></li>
 </ul> 
 <br>
 <h4>Week5: Aggregation Framework  </h4><br>
