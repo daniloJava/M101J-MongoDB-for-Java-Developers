@@ -1,5 +1,7 @@
 <h1>MongoDB University </h1>
 <h2>M101J: MongoDB for Java Developers</h2>
+<p> Certificado</p>
+https://s3.amazonaws.com/edu-cert.10gen.com/downloads/01f29a924dec4c009a9329d3bba707ac/Certificate.pdf
 
 <p>Curso online da Universidade de Mongo, </p>
 <p>Inicio - 02/08/2016 Fim -  20/09/2016 </p>
@@ -72,32 +74,28 @@
 <h4>Week5: Aggregation Framework  </h4><br>
 <p><strong>Liberado</strong> - 30/08/2016</p> 
 <p><strong>Data limite</strong> - 06/09/2016</p> 
-<p><strong>Conclusao</strong> - </p>
+<p><strong>Conclusao</strong> -  05/09/2016</p>
 <ul>
-  <li></li>
+  
+  <li>Funlções de De Grupos</li>
+  <li>$sun, $avg, $addToSet .......</li>
+  <li>Mapeando SQL e Agregação</li>
+  <li>Framework de Adregação com Java Driver.</li>
+  
 </ul> 
 <br>
 <h4>Week6: Application Engineering  </h4><br>
 <p><strong>Liberado</strong> - 06/09/2016</p> 
 <p><strong>Data limite</strong> - 13/09/2016</p> 
-<p><strong>Conclusao</strong> - </p>
+<p><strong>Conclusao</strong> - 12/09/2016</p>
 <ul>
-  <li></li>
+  <li>Estudando os costumeiros erros.</li>
+  <li>Conexões replicadas com o Java</li>
 </ul> 
 <br>
 <h4>Week7: Final Exam  </h4><br>
 <p><strong>Liberado</strong> - 13/09/2016</p> 
 <p><strong>Data limite</strong> - N/A</p> 
-<p><strong>Conclusao</strong> - </p>
-<ul>
-  <li></li>
-</ul> 
-<br>
-<h4>Final Exam  </h4><br>
-<p><strong>Liberado</strong> - 13/09/2016</p> 
-<p><strong>Data limite</strong> - 20/09/2016</p> 
-<p><strong>Conclusao</strong> - </p>
-<ul>
-  <li></li>
-</ul> 
-<br>
+<p><strong>Conclusao</strong> - 09/09/2016</p>
+
+
